@@ -47,7 +47,7 @@ It uses:
 - to reach lower inertia, the components and the most of the mass of the robot should be placed on it\`s back;
 - to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
 - to reach better torque on the wheels, it should be wider. 
-- to mount the motors use molderd plastic motor holders, or use an better printing tehnique[(don/`t print it horisontalli)](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg).
+- to mount the motors use molderd plastic motor holders, or be carefull when printing [it](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg). 
 
 ## Links: 
 - ATmega328p-AU (microcontroller): 
