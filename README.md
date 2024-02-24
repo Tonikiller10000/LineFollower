@@ -17,12 +17,8 @@
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png" >
-
---11
-
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v51.png" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v52.png" >
 
 --22
 
@@ -34,7 +30,7 @@
 
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w7.jpg" >
+<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" >
 
 
