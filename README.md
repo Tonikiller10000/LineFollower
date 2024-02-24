@@ -8,6 +8,7 @@ Another version will have a turbine for better torque and faster speeds.
 <table>
   <tr>
     <td>
+    
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
