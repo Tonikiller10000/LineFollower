@@ -5,9 +5,18 @@
 
 
 <table>
+  <tr>LineFollower V5.0</tr>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png" ></td>
+  </tr>
+</table>
+
+<table>
   <tr>LineFollower V4.0</tr>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v51.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" ></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" ></td>
   </tr>
@@ -15,15 +24,9 @@
 
 
 
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png" >
-
---22
-
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" >
+
 
 
 
@@ -34,17 +37,10 @@
     </td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png" ></td>
   </tr>
-  <tr>
-    <td>Fault1: for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
-    </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg" height = 500 width= 500></td>
-  </tr>
-
-
 </table>
 
 
-
+[Fault1:](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg) for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
 
 
 ## Links: 
