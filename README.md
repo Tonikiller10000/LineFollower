@@ -44,9 +44,10 @@ It uses:
 [Robot support design considerations](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png):
 - to reach lower inertia, the components and the most of the mass of the robot should be placed on it\`s back;
 - to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
-- to reach better torque on the wheels, it should be wider.  
+- to reach better torque on the wheels, it should be wider. 
 
-[Fault1](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg):for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
+> [!TIP]
+> for mounting the motors use industrial motor holders, or use an better printing tehnique[(don/`t print it horisontalli)](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg).
 
 The next version will heve all in one board the driver and the controller, and the board will be the actual support.
 Another further design will have a turbine for faster speeds.
