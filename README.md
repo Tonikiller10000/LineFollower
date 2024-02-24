@@ -1,11 +1,10 @@
-# LineFollower
-
+# LineFollower V5.0
 
 <table>
   <tr>
     <td>
-    
-### Description:
+
+## Description:
 This is an robot made to follow a black line from start to finish for various competitions.
 
 It uses:
@@ -21,15 +20,16 @@ It uses:
   </tr>
 </table>
 
-
-LineFollower V5.0
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png">
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png">
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png">
-
-
 <table>
-  <tr>LineFollower V4.0</tr>
+  <tr>LineFollower V5.0</tr>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png"></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png"></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png"></td>
+  </tr>
+</table>
+<table>
+  <tr>LineFollower V4.0(old design)</tr>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 250 width= 250 ></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 220 width= 250 ></td>
@@ -37,14 +37,19 @@ LineFollower V5.0
   </tr>
 </table>
 
+### Programming:
 [Programming of the robot](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
  
+### Design and mentions
 [Robot support design considerations](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png):
 - to reach lower inertia, the components and the most of the mass of the robot should be placed on it\`s back;
 - to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
 - to reach better torque on the wheels, it should be wider.  
 
 [Fault1](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg):for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
+
+The next version will heve all in one board the driver and the controller, and the board will be the actual support.
+Another further design will have a turbine for faster speeds.
 
 
 ## Links: 
