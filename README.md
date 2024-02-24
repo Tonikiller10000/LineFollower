@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td>
+    This is an robot made to follow a black line from start to finish for various competitions.
 
-This is an robot made to follow a black line from start to finish for various competitions.
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
