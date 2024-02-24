@@ -7,6 +7,7 @@
     
 ### Description:
 This is an robot made to follow a black line from start to finish for various competitions.
+
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
@@ -16,7 +17,7 @@ It uses:
 - 2x DC motors with low torque high speed gear box
 - robot suport (Wood, 3d printed or any low weight matherial)
     </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 200 width= 200 ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 400 width= 300 ></td>
 
   </tr>
 </table>
@@ -35,9 +36,9 @@ It uses:
 <table>
   <tr>LineFollower V4.0</tr>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 200 width= 200 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 200 width= 200 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" height = 200 width= 200 ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 250 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 250 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" height = 250 width= 250 ></td>
   </tr>
 </table>
 
