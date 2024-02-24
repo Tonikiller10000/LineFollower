@@ -8,7 +8,7 @@ Another version will have a turbine for better torque and faster speeds.
 <table>
   <tr>
     <td>
-    
+
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
@@ -18,20 +18,21 @@ It uses:
 - 2x DC motors with low torque high speed gear box
 - robot suport (Wood, 3d printed or any low weight matherial)
     </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 500 width= 350 ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 400 width= 300 ></td>
   </tr>
 </table>
 
+ ## LineFollower V5.0
 <table>
-  <tr>LineFollower V5.0</tr>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png"></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png"></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png"></td>
   </tr>
 </table>
+
+ ## LineFollower V4.0(old design)
 <table>
-  <tr>LineFollower V4.0(old design)</tr>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 250 width= 250 ></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 220 width= 250 ></td>
