@@ -5,10 +5,11 @@
 
 
 <table>
+  <tr>LineFollower V4.0</tr>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/u2.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/f1.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/MotorDriver_1/blob/main/LineFollowerDriver_Pictures/b1.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v51.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" ></td>
   </tr>
 </table>
 
@@ -17,20 +18,11 @@
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v51.png" >
 
 --22
 
-
-
-
-
-
-
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" >
 
 
@@ -45,7 +37,7 @@
   <tr>
     <td>Fault1: for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
     </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg" height = 500 width= 500></td>
   </tr>
 
 
