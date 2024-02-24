@@ -18,34 +18,24 @@ It uses:
 - robot suport (Wood, 3d printed or any low weight matherial)
     </td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 400 width= 300 ></td>
-
   </tr>
 </table>
 
 
+LineFollower V5.0
+<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png">
+<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png">
+<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png">
 
-<table>
-  <tr>LineFollower V5.0</tr>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png" ></td>
-  </tr>
-</table>
 
 <table>
   <tr>LineFollower V4.0</tr>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 250 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 250 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 220 width= 250 ></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" height = 250 width= 250 ></td>
   </tr>
 </table>
-
-
-LineFollower V4.0:
-
-
 
 [Programming of the robot](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
  
