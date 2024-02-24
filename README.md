@@ -16,7 +16,7 @@
 <table>
   <tr>LineFollower V4.0</tr>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 400 width= 400></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" ></td>
   </tr>
@@ -30,17 +30,12 @@
 
 
 
-<table>
-  <tr>
-    <td>Support design: For the suport construction, the components should be placed on the back of the robot, for lower inertia 
-    and longer for a higher allowed response time from the sensor line detection to the mottor speed change. 
-    </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png" ></td>
-  </tr>
-</table>
 
-
-[Fault1:](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg) for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
+[Robot support design considerations](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png):
+- to reach lower inertia, the components and the most of the mass of the robot should be placed on it\`s back;
+- to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
+- to reach better torque on the wheels, it should be wider.  
+[Fault1](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg):for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
 
 
 ## Links: 
