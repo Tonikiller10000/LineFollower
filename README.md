@@ -1,5 +1,10 @@
 # LineFollower
 
+
+<table>
+  <tr>
+    <td>
+    
 ### Description:
 This is an robot made to follow a black line from start to finish for various competitions.
 It uses:
@@ -10,6 +15,12 @@ It uses:
 - LI-PO battery
 - 2x DC motors with low torque high speed gear box
 - robot suport (Wood, 3d printed or any low weight matherial)
+    </td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" ></td>
+
+  </tr>
+</table>
+
 
 
 <table>
@@ -32,7 +43,7 @@ It uses:
 
 
 LineFollower V4.0:
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" >
+
 
 
 [Programming of the robot](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
