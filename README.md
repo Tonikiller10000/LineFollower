@@ -6,8 +6,9 @@
 
 ## Description:
 This is an robot made to follow a black line from start to finish for various competitions.
-The next version will have the motor driver soldered on the board and the motors screwed dirrectly to it as the suport 
-and another further version will have a turbine for better torque and faster speeds.
+The next version will have the motor driver soldered on the board and 
+motors screwed dirrectly to it as the suport. 
+Another version will have a turbine for better torque and faster speeds.
 
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
