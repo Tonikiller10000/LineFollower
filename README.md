@@ -26,14 +26,34 @@
 
 --22
 
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png" >
+
+
+
+
+
+
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg" >
 <img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w7.jpg" >
-<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w8.png" >
+<img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" >
 
 
+
+<table>
+  <tr>
+    <td>Support design: For the suport construction, the components should be placed on the back of the robot, for lower inertia 
+    and longer for a higher allowed response time from the sensor line detection to the mottor speed change. 
+    </td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png" ></td>
+  </tr>
+  <tr>
+    <td>Fault1: for mounting the motors use industrial motor holders, ore use an better printing tehnique(don/`t print it horisontalli).
+    </td>
+    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg" ></td>
+  </tr>
+
+
+</table>
 
 
 
