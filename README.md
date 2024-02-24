@@ -1,14 +1,12 @@
 # LineFollower V5.0
 
-
 ## Description:
-This is an robot made to follow a black line from start to finish for various competitions.
-The next version will have the motor driver soldered on the board and motors screwed dirrectly to it as the suport. 
-Another version will have a turbine for better torque and faster speeds.
+
 <table>
   <tr>
     <td>
 
+This is an robot made to follow a black line from start to finish for various competitions.
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
@@ -49,6 +47,10 @@ It uses:
 - to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
 - to reach better torque on the wheels, it should be wider. 
 - to mount the motors use molderd plastic motor holders, or be carefull when printing [it](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg). 
+
+The next version will have the motor driver soldered on the board and motors screwed dirrectly to it as the suport. 
+Another version will have a turbine for better torque and faster speeds.
+
 
 ## Links: 
 - ATmega328p-AU (microcontroller): 
