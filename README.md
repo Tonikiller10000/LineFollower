@@ -5,9 +5,7 @@
 <table>
   <tr>
     <td>
-    This is an robot made to follow a black line from start to finish for various competitions. The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery trouth an 5V voltage regulator. The 8 analog pins are used as inputs from the sensor bar and 6 digital pins are used for the TB6612FNG motor driver witch is powered dirrectly from the battery to give more power to the motors. The reset pin has a 10K pullup resistor witch is pulled back down when the reset button is pressed. The UART and ICSP pins wore pulled out to program the code and the bootloader of the IC.
-    The case was made with autodesk fusion 360 at the 3d printer and with some M3 screws.
-
+    This is an robot made to follow a black line from start to finish for various competitions. 
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
@@ -39,6 +37,10 @@ It uses:
   </tr>
 </table>
 
+### How it works:
+The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery trouth an 5V voltage regulator. The 8 analog pins are used as inputs from the sensor bar and 6 digital pins are used for the TB6612FNG motor driver witch is powered dirrectly from the battery to give more power to the motors. The reset pin has a 10K pullup resistor witch is pulled down by the reset button when it is pressed. The UART and ICSP pins wore pulled out to program the code and the bootloader of the IC.
+
+
 ### Programming:
 [Programming of the robot](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
  
@@ -48,6 +50,7 @@ It uses:
 - to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
 - to reach better torque on the wheels, it should be wider. 
 - to mount the motors use molderd plastic motor holders, or be carefull when printing [it](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg). 
+- the case was made with autodesk fusion 360 at the 3d printer and with some M3 screws.
 
 The next version will have the motor driver soldered on the board and motors screwed dirrectly to it as the suport. 
 Another version will have a turbine for better torque and faster speeds.
