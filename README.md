@@ -5,14 +5,15 @@
 <table>
   <tr>
     <td>
-    This is an robot made to follow a black line from start to finish for various competitions.
+    This is an robot made to follow a black line from start to finish for various competitions. The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery trouth an 5V voltage regulator. The 8 analog pins are used as inputs from the sensor bar and 6 digital pins are used for the TB6612FNG motor driver witch is powered dirrectly from the battery to give more power to the motors. The reset pin has a 10K pullup resistor witch is pulled back down when the reset button is pressed. The UART and ICSP pins wore pulled out to program the code and the bootloader of the IC.
+    The case was made with autodesk fusion 360 at the 3d printer and with some M3 screws.
 
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
 - 16 or 20Mhz crystal resonator;
 - [TB6612FNG](https://github.com/Tonikiller10000/MotorDriver_1) DC motor driver;
 - [ITR8307-TR8](https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar) sensor bar;
-- LI-PO battery
+- LI-PO battery (7.2V)
 - 2x DC motors with low torque high speed gear box
 - robot suport (Wood, 3d printed or any low weight matherial)
     </td>
