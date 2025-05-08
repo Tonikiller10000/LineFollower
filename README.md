@@ -45,6 +45,38 @@ The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery 
 ### Programming:
 [Programming of the robot](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
  
+
+
+### Start remote:
+
+
+Robochalange remote:
+[Start switch website](https://p1r.se/startmodule/)
+[Start switch github](https://github.com/p1rse/robot-sumo-start-module/)
+[IR Receiver Diode - TSOP38238](https://www.sparkfun.com/products/10266)
+[schematic1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnkNo1QEsxSPMNj7rN0opPGzlpkEMgxas9PnXUh-xvVR3l7UK27BbSvRroJmsxzwf3StBiDH0k4m-aEXX_4qJKeG5T4bKsfCBbcjgoykJYrBEhg5JI-Mr95yexPMCzkTw7kaGDIzET8ME/s1600/1235.png)
+[schematic2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLlN9CDAmP0rq2BlWM0Xdsypyy7NfGZpMYkufZPUAMmgCRdU-KhBC8AvPr7iOOQAwod2Hw66K_vuib1FNqDIHNemtnMvlSue2krN2hfp39g73NuTcx5fEXUF8i5MbJ3re-paKH2Z_Cgq0/s1600/1234.png)
+[Q&A](https://robochallenge.ro/faq)
+[MORE](https://destroyer3000.blogspot.com/2013/03/start-module-implement-yourself.html)
+
+
+
+
+
+
+### How PID control work/`s
+
+[Here](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) you can learn more about PID and under this you can see 
+an analog linefollower project with and without PID:
+- https://www.nutsvolts.com/magazine/article/the_pid_controller_part_1
+- https://www.ecircuitcenter.com/Circuits/op_pid/op_pid.htm
+- https://control.com/textbook/closed-loop-control/analog-electronic-pid-controllers/
+- https://www.youtube.com/watch?v=4Y7zG48uHRo&list=PLOSOqCeZCHL0Qxb6YyrvGzjCg9FLfzHYJ
+
+### ///////////////////////////////
+- Small linefollower with op amp:https://www.youtube.com/watch?v=zZmvL0TkllI&list=WL&index=15&t=25s
+
+
 ### Design and mentions
 [Robot support design considerations](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png):
 - to reach lower inertia, the components and the most of the mass of the robot should be placed on it\`s back;
@@ -61,6 +93,17 @@ Another version will have a turbine for better torque and faster speeds.
 - ATmega328p-AU (microcontroller): 
 - LM78L05 (5V voltage regulator):
 - Proof of work: https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w2.mp4
+
+
+
+
+
+
+
+
+
+
+
 
 
 
