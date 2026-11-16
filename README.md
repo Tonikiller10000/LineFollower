@@ -1,4 +1,4 @@
-# LineFollower V5.0
+# LineFollower V5.0 : 🟡 working on V8 design, 🗓️ UPDATES SOON
 
 ## Description:
 
@@ -16,25 +16,25 @@ It uses:
 - 2x DC motors with low torque high speed gear box
 - robot suport (Wood, 3d printed or any low weight matherial)
     </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 400 width= 300 ></td>
+    <td><img src="./LineFollower_Pictures/w4.jpg" height = 400 width= 300 ></td>
   </tr>
 </table>
 
  ## LineFollower V5.0
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png"  height = 220 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png"  height = 220 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png"  height = 220 width= 250 ></td>
+    <td><img src="./LineFollower_Pictures/z3.png"  height = 220 width= 250 ></td>
+    <td><img src="./LineFollower_Pictures/z1.png"  height = 220 width= 250 ></td>
+    <td><img src="./LineFollower_Pictures/z2.png"  height = 220 width= 250 ></td>
   </tr>
 </table>
 
  ## LineFollower V4.0(old design)
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/zz.jpg" height = 250 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/v41.png" height = 220 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/sch4.png" height = 250 width= 250 ></td>
+    <td><img src="./LineFollower_Pictures/zz.jpg" height = 250 width= 250 ></td>
+    <td><img src="./LineFollower_Pictures/v41.png" height = 220 width= 250 ></td>
+    <td><img src="./LineFollower_Pictures/sch4.png" height = 250 width= 250 ></td>
   </tr>
 </table>
 
@@ -43,7 +43,7 @@ The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery 
 
 
 ### Programming:
-[Programming of the robot](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
+[Programming of the robot](./LineFollower_Pictures/w6.jpg): is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the LineFollower is not ready. It uses the PID algorithm, and further documentation about this algorithm and the  source code for the robot will be posted this year.
  
 
 
@@ -78,11 +78,11 @@ an analog linefollower project with and without PID:
 
 
 ### Design and mentions
-[Robot support design considerations](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w3.png):
+[Robot support design considerations](./LineFollower_Pictures/w3.png):
 - to reach lower inertia, the components and the most of the mass of the robot should be placed on it\`s back;
 - to reach a longer allowed response time from the sensor line detection to the mottor speed change it should be builted longer;
 - to reach better torque on the wheels, it should be wider. 
-- to mount the motors use molderd plastic motor holders, or be carefull when printing [it](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg). 
+- to mount the motors use molderd plastic motor holders, or be carefull when printing [it](./LineFollower_Pictures/w1.jpg). 
 - the case was made with autodesk fusion 360 at the 3d printer and with some M3 screws.
 
 The next version will have the motor driver soldered on the board and motors screwed dirrectly to it as the suport. 
@@ -92,8 +92,11 @@ Another version will have a turbine for better torque and faster speeds.
 ## Links: 
 - ATmega328p-AU (microcontroller): 
 - LM78L05 (5V voltage regulator):
-- Proof of work: https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w2.mp4
+- Proof of work: ./LineFollower_Pictures/w2.mp4
 
+
+## License
+**License:** MIT — This project is licensed under the [MIT License](./LICENSE).
 
 
 
